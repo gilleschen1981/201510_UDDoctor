@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: lib/junit-4.8.2.jar; lib/jxl.jar
+Main-Class: com.hp.ucmdb.uddoctor.UDDoctor
+
